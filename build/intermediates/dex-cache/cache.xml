@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_62a39210b4befa0322e57f075583a20df0d5980b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_522e215028400b70a7d8514824548383da43e610.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_dc2ef3e7c16f9d7332e0f2a853aeb86d3f61893b.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1f35b4cd6a543dcb2148e177dbdeb8b5474b5b0a.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_54f64602ce1d85836fbb8acbcf60288331b891fb.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_66715d3aedef1ba1c573a4247b2e3ced657ced42.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_bfbe0e922940c51576fc6bb1896f120917f3da39.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_f20a4e8399d17f08aee1cdb6a5e98d2d12d265cd.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_7022b7c4a7f7cec4c48c2d4dfa1daa0df46e98bf.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_0c69efcef59d848a28fcb80257214ad77e1392bf.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_28d47f103b1f19406e7bbb37f7cefd85a20be2d7.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_495b02002290316663b83a6bf2164a8d92fa5266.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_58ceeb62f6a09334260ce0208292fa6348a05b72.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e238eb41165299566930cb58f439fc310a68cf8a.jar" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\Project\Android\SampleFragmentUsage\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6abbd3b328597495a143358cacf206e1920fae8d.jar" />
+    </item>
+
+</items>
